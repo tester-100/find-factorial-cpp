@@ -14,8 +14,7 @@ int factorial(int number) {
 	return result;
 }
 
-int main(int argc, char const *argv[])
-{
+int main(int argc, char const *argv[]) {
 	int number;
 	cout << "Enter a number : ";
 	cin >> number;
